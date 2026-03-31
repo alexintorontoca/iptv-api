@@ -1,8 +1,10 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u# 这是订阅源列表，每行一个订阅地址
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/feiyangdigital/iptv/main/live.m3u
+https://raw.githubusercontent.com/Guovern/TV/master/Result.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 # https://raw.githubusercontent.com/feiyangdigital/iptv/main/live.m3u
 
