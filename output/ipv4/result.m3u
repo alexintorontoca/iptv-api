@@ -1,3 +1,7 @@
 #EXTM3U x-tvg-url="https://g.blfrp.cn/https://raw.githubusercontent.com/alexintorontoca/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-01 08:51:44
-url
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-01 09:05:21
+http://shdx-v-cdn.miguvideo.com/live/DFWS/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://shdx-v-cdn.miguvideo.com/live/DFWS/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视.png" group-title="☘️上海频道",东方卫视
+http://shdx-v-cdn.miguvideo.com/live/DFWS/index.m3u8
