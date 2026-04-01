@@ -4,3 +4,9 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
+# 上海频道私有源 (2026-03-31)
+东方卫视,http://shdx-v-cdn.miguvideo.com/live/DFWS/index.m3u8$!
+上视新闻综合频道,http://shdx-v-cdn.miguvideo.com/live/SHXWZH/index.m3u8$!
+上海都市频道,http://shdx-v-cdn.miguvideo.com/live/SHDS/index.m3u8$!
+第一财经,http://shdx-v-cdn.miguvideo.com/live/DYCJ/index.m3u8$!
+五星体育频道,http://shdx-v-cdn.miguvideo.com/live/WSTY/index.m3u8$!
